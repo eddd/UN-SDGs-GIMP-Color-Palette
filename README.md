@@ -1,2 +1,2 @@
 # UN-SDGs-GIMP-Color-Palette
-GIMP colour palette for the UN Sustainable Development Goals
+GIMP and INKSCAPE colour palette (gpl file) for the UN Sustainable Development Goals
